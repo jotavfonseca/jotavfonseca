@@ -15,6 +15,8 @@ mas desenvolvimento fullstack, realmente me atraiu e estou ansioso para mais pro
 📫 Para entrar em contato comigo:
   ## 📧 joaovitorfonsouza@gmail.com
   ## 📞 +55 (12) 98321-7934
+  ## in/joao-vitor-fonseca-61542b248
+
   
 
 
