@@ -1,7 +1,6 @@
 ##  Olá, me chamo João Vitor Fonseca 👋
 
-🔭 Estou Trabalhando atualmente em uma empresa de software chamada IT Fast, já estou lá a 2 anos e meio, e nesse tempo, participei ativamente em diversos projetos,
-o primeiro foi um projeto web em React.js e Node.js, onde trabalhavamos com dados do mercado financeiro e filtravamos ao usuario, tambem atuei em projetos em delphi e C++.
+🔭 Atualmente trabalho na IT Fast (empresa de software), onde atuo há 2 anos e meio. Nesse período, participei ativamente de vários projetos, destacando-se um sistema web desenvolvido com React.js e Node.js, voltado ao tratamento e filtragem de dados do mercado financeiro para usuários. Além disso, atuei em projetos desenvolvidos em Delphi e C++.
 
 📚 Proficiências:
   - React.Js
