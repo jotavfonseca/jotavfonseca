@@ -1,16 +1,17 @@
 ##  Olá, me chamo João Vitor Fonseca 👋
 
-🔭 Atualmente trabalho na IT Fast (empresa de software), onde atuo há 2 anos e meio. Nesse período, participei ativamente de vários projetos, destacando-se um sistema web desenvolvido com React.js e Node.js, voltado ao tratamento e filtragem de dados do mercado financeiro para usuários. Além disso, atuei em projetos desenvolvidos em Delphi e C++.
+🔭 Atualmente estou trabalhando na TMB, atuando como desenvolvedor Fullstack Jr. desenvolvendo melhorias e novas ferramentas para o cliente e uso interno.
 
 📚 Proficiências:
   - React.Js
   - Node.js
   - MySql
+  - postgreSql
   - TypeScript
-  - Java
-  - C / C++
+  - C#
+  - dotnet
 
-🌱 Atualmente estou aprendendo Typescript para o frontend e Java para o backend, além de me aprofundar mais em React e Node.
+🌱 Atualmente estou aprendendo Typescript para o frontend e C# para o backend, além de me aprofundar mais em React e Node.
 
 🌱 Academicamente, estou cursando Ciencia e Tecnologia na UNIFESP e em paralelo Analise e Desenvolvimento de Sistemas na ETEP.
 
