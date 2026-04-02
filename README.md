@@ -1,43 +1,69 @@
-##  Olá, me chamo João Vitor Fonseca 👋
+# Hi, I'm João Vitor Fonseca 👋
 
-🔭 Atualmente estou trabalhando na TMB, atuando como desenvolvedor Fullstack Jr. desenvolvendo melhorias e novas ferramentas para o cliente e uso interno.
+💻 Full Stack Developer focused on building scalable web applications and robust backend systems.
+🔭 Currently working at TMB as a Full Stack Developer, developing new features and improving internal and client-facing systems.
 
-📚 Proficiências:
-  - React.Js
-  - Node.js
-  - MySql
-  - postgreSql
-  - TypeScript
-  - C#
-  - dotnet
+---
 
-🌱 Atualmente estou aprendendo Typescript para o frontend e C# para o backend, além de me aprofundar mais em React e Node.
+## 🚀 Tech Stack
 
-🌱 Academicamente, estou cursando Ciencia e Tecnologia na UNIFESP e em paralelo Analise e Desenvolvimento de Sistemas na ETEP.
+**Frontend:**
 
-⚡ Sou um rapido aprendiz, podendo me adaptar rapidamente a qualquer linguagem ou desafio, estou ansioso para trabalhar em mais projetos e me aprofundar cada vez mais no mundo de programação.
+* React.js / Next.js
+* TypeScript
 
-💬 Sou fluente em inglês e sei o basico de espanhol.
+**Backend:**
 
-📫 Para entrar em contato comigo:
-  ## 📧 joaovitorfonsouza@gmail.com
-  ## 📞 +55 (12) 98321-7934
-  ## in/joao-vitor-fonseca-61542b248
+* .NET / C#
+* Node.js
 
-  
+**Database:**
 
+* PostgreSQL
+* MySQL
 
-<!--
-**jotavfonseca/jotavfonseca** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Tools & Cloud:**
 
-Here are some ideas to get you started:
+* Docker
+* AWS / Azure
+* Git
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 📈 What I Do
+
+* Develop and maintain scalable web applications
+* Build REST APIs and backend services
+* Optimize database performance and application efficiency
+* Work with legacy systems (Delphi) and modern architectures
+
+---
+
+## 🎓 Education
+
+* B.S. in Science and Technology — UNIFESP
+* Systems Analysis and Development — ETEP
+
+---
+
+## 🌱 Currently Learning
+
+* Advanced TypeScript for frontend applications
+* Backend architecture with .NET (C#)
+* Software design patterns and clean architecture
+
+---
+
+## 🌍 Languages
+
+* English — Fluent
+* Spanish — Basic
+
+---
+
+## 📫 Contact
+
+* Email: [joaovitorfonsouza@gmail.com](mailto:joaovitorfonsouza@gmail.com)
+* LinkedIn: https://www.linkedin.com/in/joao-vitor-fonseca-61542b248/
+
+---
